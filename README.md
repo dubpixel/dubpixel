@@ -1,11 +1,12 @@
-## Hi there 👋 im @dubpixel // Joshua Fleitell
+## Hi there 
 
 <!--
 **dubpixel/dubpixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on control surfaces, led related hardware, and SNL (LOL). 
+- 👋 im @dubpixel
+- 🔭 I’m currently working on control surfaces, led related hardware, other nonsense.
 - 🌱 I’m currently learning about PIO and the RP2040. about how to measure SCH and jitter. 2110
 - 👯 I’m looking to collaborate on your very blinky, useful or silly 'thing'. advanced video engineering. large scale led installations.
 - 🤔 I’m looking for help with balancing my in the field work with hardware development projects.
