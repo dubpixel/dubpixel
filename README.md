@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: beetlejuice,beetlejuice,...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Elephants only digest about 40% of the food they eat, so their poop disperses undigested seeds. This helps maintain biodiversity and regrow vegetation. 
-
--->
